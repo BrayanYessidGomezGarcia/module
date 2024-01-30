@@ -1,4 +1,3 @@
-from Modulos.Validate import message
 def save(): 
     return "Sucessfully Trainer" +message()
 
