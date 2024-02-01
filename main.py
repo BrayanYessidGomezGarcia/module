@@ -2,9 +2,9 @@
 # from module.camper import save
 #from module.camper import delate as eliminar
 from os import system
-import modulos.camper  as camper
-import modulos.trainer as trainer 
-from modulos.Validate import menuNoValid
+import Modulos.camper  as camper
+import Modulos.trainer as trainer 
+from Modulos.validate import menuNoValid
 def menu():
     print("Sistema de almacenamiento de datos para campus")
     print("\t1. Informacion del camper")

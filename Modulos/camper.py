@@ -1,5 +1,5 @@
 from os import system
-from .Validate import menuNoValid
+from .validate import menuNoValid
 from .data import camper, generos
 
 def save():
